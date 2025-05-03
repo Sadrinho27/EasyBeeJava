@@ -45,5 +45,5 @@ EasyBee est une entreprise fictive spécialisée dans la vente de matériel apic
 
 
 ## 👤Auteur
-Développé par [@L-Matteo](https://github.com/L-Matteo).
+Développé par [@Sadrinho27](https://github.com/Sadrinho27).
 
