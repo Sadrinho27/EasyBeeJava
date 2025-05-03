@@ -40,8 +40,8 @@ EasyBee est une entreprise fictive spécialisée dans la vente de matériel apic
 
 
 ## 💻Comptes de test
-- Identifiant : *adminVendeur* Mot de passe : *adminVendeur*
-- Identifiant : *adminPrepa* Mot de passe : *adminPrepa*
+- Identifiant : *adminVendeur* | Mot de passe : *adminVendeur* (Hashé dans la base de données)
+- Identifiant : *adminPrepa* | Mot de passe : *adminPrepa* (Hashé dans la base de données)
 
 
 ## 👤Auteur
