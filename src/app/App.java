@@ -2,8 +2,6 @@ package app;
 
 import java.awt.EventQueue;
 
-import org.mindrot.jbcrypt.BCrypt;
-
 import ui.PageConnexion;
 
 public class App {

@@ -34,6 +34,7 @@ public class PasserCmde extends JFrame {
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 
+	@SuppressWarnings("serial")
 	public PasserCmde(Utilisateur user) {
 		setTitle("Passer une commande - Gestion des stocks");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
