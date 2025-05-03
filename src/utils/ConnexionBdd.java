@@ -16,10 +16,10 @@ public class ConnexionBdd {
 
 	private ConnexionBdd() {
 		try {
-			con = DriverManager.getConnection("jdbc:mysql://" + host + "/" + dbName, username, password);
-			System.out.println("connexion reussie");
+		    con = DriverManager.getConnection("jdbc:mysql://" + host + "/" + dbName, username, password);
+		    System.out.println("SUCCÈS | Connexion à la base de données établie.");
 		} catch (Exception ex) {
-			System.out.println(" ERREUR | Problème de connexion à la base de données : " + ex.getMessage());
+		    System.out.println("ERREUR | Échec de la connexion à la base de données : " + ex.getMessage());
 		}
 	}
 
